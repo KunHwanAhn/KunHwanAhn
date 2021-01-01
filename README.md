@@ -90,7 +90,14 @@
   </a>
 </div>
 
-## Github Stats
+## Github
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### Stats
 
 <div style="display: flex; flex-wrap: wrap; align-items: start;">
   <img
