@@ -95,6 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#12](https://github.com/KunHwanAhn/KunHwanAhn/pull/12) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+2. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/KunHwanAhn/pull/11) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+3. 💪 Opened PR [#12](https://github.com/KunHwanAhn/KunHwanAhn/pull/12) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+4. 💪 Opened PR [#11](https://github.com/KunHwanAhn/KunHwanAhn/pull/11) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+5. 🎉 Merged PR [#10](https://github.com/KunHwanAhn/KunHwanAhn/pull/10) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
 <!--END_SECTION:activity-->
 
 ### Stats
