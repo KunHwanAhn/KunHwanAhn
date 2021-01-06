@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/KunHwanAhn/KunHwanAhn/issues/4) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
-2. 🎉 Merged PR [#12](https://github.com/KunHwanAhn/KunHwanAhn/pull/12) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
-3. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/KunHwanAhn/pull/11) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
-4. 💪 Opened PR [#12](https://github.com/KunHwanAhn/KunHwanAhn/pull/12) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
-5. 💪 Opened PR [#11](https://github.com/KunHwanAhn/KunHwanAhn/pull/11) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+1. 🎉 Merged PR [#13](https://github.com/KunHwanAhn/graphql-ex/pull/13) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
+2. ❗️ Closed issue [#4](https://github.com/KunHwanAhn/KunHwanAhn/issues/4) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+3. 🎉 Merged PR [#12](https://github.com/KunHwanAhn/KunHwanAhn/pull/12) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+4. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/KunHwanAhn/pull/11) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+5. 💪 Opened PR [#12](https://github.com/KunHwanAhn/KunHwanAhn/pull/12) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
 <!--END_SECTION:activity-->
 
 ### Stats
