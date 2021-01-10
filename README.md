@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/3) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
-2. 💪 Opened PR [#3](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/3) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
-3. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/1) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
-4. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/2) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
-5. 💪 Opened PR [#2](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/2) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
+1. 🎉 Merged PR [#4](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/4) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
+2. 💪 Opened PR [#4](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/4) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
+3. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/3) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
+4. 💪 Opened PR [#3](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/3) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
+5. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/1) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
 <!--END_SECTION:activity-->
 
 ### Stats
