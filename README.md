@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/28) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
-2. 💪 Opened PR [#28](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/28) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
-3. 🎉 Merged PR [#12](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/12) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
-4. 💪 Opened PR [#12](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/12) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
-5. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/11) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
+1. ❗️ Opened issue [#10](https://github.com/wonder13662/migration-vue2-vue3/issues/10) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
+2. ❗️ Opened issue [#9](https://github.com/wonder13662/migration-vue2-vue3/issues/9) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
+3. ❗️ Opened issue [#8](https://github.com/wonder13662/migration-vue2-vue3/issues/8) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
+4. ❗️ Opened issue [#7](https://github.com/wonder13662/migration-vue2-vue3/issues/7) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
+5. ❗️ Opened issue [#6](https://github.com/wonder13662/migration-vue2-vue3/issues/6) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
 <!--END_SECTION:activity-->
 
 ### Stats
