@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#115](https://github.com/wan2land/vue-daum-postcode/issues/115) in [wan2land/vue-daum-postcode](https://github.com/wan2land/vue-daum-postcode)
-2. ❗️ Opened issue [#115](https://github.com/wan2land/vue-daum-postcode/issues/115) in [wan2land/vue-daum-postcode](https://github.com/wan2land/vue-daum-postcode)
-3. ❗️ Opened issue [#10](https://github.com/wonder13662/migration-vue2-vue3/issues/10) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
-4. ❗️ Opened issue [#9](https://github.com/wonder13662/migration-vue2-vue3/issues/9) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
-5. ❗️ Opened issue [#8](https://github.com/wonder13662/migration-vue2-vue3/issues/8) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
+1. ❗️ Opened issue [#14](https://github.com/wonder13662/migration-vue2-vue3/issues/14) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
+2. ❗️ Opened issue [#13](https://github.com/wonder13662/migration-vue2-vue3/issues/13) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
+3. 🗣 Commented on [#115](https://github.com/wan2land/vue-daum-postcode/issues/115) in [wan2land/vue-daum-postcode](https://github.com/wan2land/vue-daum-postcode)
+4. ❗️ Opened issue [#115](https://github.com/wan2land/vue-daum-postcode/issues/115) in [wan2land/vue-daum-postcode](https://github.com/wan2land/vue-daum-postcode)
+5. ❗️ Opened issue [#10](https://github.com/wonder13662/migration-vue2-vue3/issues/10) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
 <!--END_SECTION:activity-->
 
 ### Stats
