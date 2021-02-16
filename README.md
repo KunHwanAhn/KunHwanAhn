@@ -97,9 +97,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#24](https://github.com/wonder13662/migration-vue2-vue3/issues/24) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
 2. 🗣 Commented on [#24](https://github.com/wonder13662/migration-vue2-vue3/issues/24) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
-3. 🗣 Commented on [#12](https://github.com/wonder13662/migration-vue2-vue3/issues/12) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
+3. 🗣 Commented on [#24](https://github.com/wonder13662/migration-vue2-vue3/issues/24) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
 4. 🗣 Commented on [#12](https://github.com/wonder13662/migration-vue2-vue3/issues/12) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
-5. ❗️ Opened issue [#14](https://github.com/wonder13662/migration-vue2-vue3/issues/14) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
+5. 🗣 Commented on [#12](https://github.com/wonder13662/migration-vue2-vue3/issues/12) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
 <!--END_SECTION:activity-->
 
 ### Stats
