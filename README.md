@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/sequelize-ex/pull/7) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
-2. 🗣 Commented on [#24](https://github.com/wonder13662/migration-vue2-vue3/issues/24) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
-3. 🗣 Commented on [#24](https://github.com/wonder13662/migration-vue2-vue3/issues/24) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
-4. 🗣 Commented on [#24](https://github.com/wonder13662/migration-vue2-vue3/issues/24) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
-5. 🗣 Commented on [#12](https://github.com/wonder13662/migration-vue2-vue3/issues/12) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
+1. 🎉 Merged PR [#5](https://github.com/KunHwanAhn/webpack-ex/pull/5) in [KunHwanAhn/webpack-ex](https://github.com/KunHwanAhn/webpack-ex)
+2. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/webpack-ex/pull/2) in [KunHwanAhn/webpack-ex](https://github.com/KunHwanAhn/webpack-ex)
+3. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/webpack-ex/pull/6) in [KunHwanAhn/webpack-ex](https://github.com/KunHwanAhn/webpack-ex)
+4. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/sequelize-ex/pull/7) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
+5. 🗣 Commented on [#24](https://github.com/wonder13662/migration-vue2-vue3/issues/24) in [wonder13662/migration-vue2-vue3](https://github.com/wonder13662/migration-vue2-vue3)
 <!--END_SECTION:activity-->
 
 ### Stats
