@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/6) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
-2. 🎉 Merged PR [#5](https://github.com/KunHwanAhn/nuxt-ex/pull/5) in [KunHwanAhn/nuxt-ex](https://github.com/KunHwanAhn/nuxt-ex)
-3. 🎉 Merged PR [#14](https://github.com/KunHwanAhn/graphql-client-ex/pull/14) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
-4. 🎉 Merged PR [#5](https://github.com/KunHwanAhn/webpack-ex/pull/5) in [KunHwanAhn/webpack-ex](https://github.com/KunHwanAhn/webpack-ex)
-5. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/webpack-ex/pull/2) in [KunHwanAhn/webpack-ex](https://github.com/KunHwanAhn/webpack-ex)
+1. ❗️ Closed issue [#115](https://github.com/wan2land/vue-daum-postcode/issues/115) in [wan2land/vue-daum-postcode](https://github.com/wan2land/vue-daum-postcode)
+2. 🗣 Commented on [#115](https://github.com/wan2land/vue-daum-postcode/issues/115) in [wan2land/vue-daum-postcode](https://github.com/wan2land/vue-daum-postcode)
+3. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/6) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
+4. 🎉 Merged PR [#5](https://github.com/KunHwanAhn/nuxt-ex/pull/5) in [KunHwanAhn/nuxt-ex](https://github.com/KunHwanAhn/nuxt-ex)
+5. 🎉 Merged PR [#14](https://github.com/KunHwanAhn/graphql-client-ex/pull/14) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
 <!--END_SECTION:activity-->
 
 ### Stats
