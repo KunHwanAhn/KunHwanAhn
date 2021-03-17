@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/vue-test-util-ex/pull/1) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-2. 💪 Opened PR [#1](https://github.com/KunHwanAhn/vue-test-util-ex/pull/1) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-3. ❗️ Closed issue [#115](https://github.com/wan2land/vue-daum-postcode/issues/115) in [wan2land/vue-daum-postcode](https://github.com/wan2land/vue-daum-postcode)
-4. 🗣 Commented on [#115](https://github.com/wan2land/vue-daum-postcode/issues/115) in [wan2land/vue-daum-postcode](https://github.com/wan2land/vue-daum-postcode)
-5. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/6) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
+1. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/vue-test-util-ex/pull/2) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+2. 💪 Opened PR [#2](https://github.com/KunHwanAhn/vue-test-util-ex/pull/2) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+3. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/vue-test-util-ex/pull/1) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+4. 💪 Opened PR [#1](https://github.com/KunHwanAhn/vue-test-util-ex/pull/1) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+5. ❗️ Closed issue [#115](https://github.com/wan2land/vue-daum-postcode/issues/115) in [wan2land/vue-daum-postcode](https://github.com/wan2land/vue-daum-postcode)
 <!--END_SECTION:activity-->
 
 ### Stats
