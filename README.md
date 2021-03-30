@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/KunHwanAhn/vue-test-util-ex/pull/4) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-2. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/vue-test-util-ex/pull/3) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-3. 💪 Opened PR [#3](https://github.com/KunHwanAhn/vue-test-util-ex/pull/3) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-4. 🎉 Merged PR [#29](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/29) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
-5. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/vue-test-util-ex/pull/2) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+1. 🗣 Commented on [#3507](https://github.com/vuejs/vue-next/issues/3507) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+2. 🗣 Commented on [#3507](https://github.com/vuejs/vue-next/issues/3507) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+3. 🗣 Commented on [#3507](https://github.com/vuejs/vue-next/issues/3507) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+4. 💪 Opened PR [#4](https://github.com/KunHwanAhn/vue-test-util-ex/pull/4) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+5. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/vue-test-util-ex/pull/3) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
 <!--END_SECTION:activity-->
 
 ### Stats
