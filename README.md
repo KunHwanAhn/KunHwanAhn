@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3507](https://github.com/vuejs/vue-next/issues/3507) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-2. 🗣 Commented on [#3507](https://github.com/vuejs/vue-next/issues/3507) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+1. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/study-gulp-travis/pull/7) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
+2. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/study-gulp-travis/pull/6) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
 3. 🗣 Commented on [#3507](https://github.com/vuejs/vue-next/issues/3507) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-4. 💪 Opened PR [#4](https://github.com/KunHwanAhn/vue-test-util-ex/pull/4) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-5. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/vue-test-util-ex/pull/3) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+4. 🗣 Commented on [#3507](https://github.com/vuejs/vue-next/issues/3507) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+5. 🗣 Commented on [#3507](https://github.com/vuejs/vue-next/issues/3507) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
 <!--END_SECTION:activity-->
 
 ### Stats
