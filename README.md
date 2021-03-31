@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/study-gulp-travis/pull/7) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
-2. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/study-gulp-travis/pull/6) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
-3. 🗣 Commented on [#3507](https://github.com/vuejs/vue-next/issues/3507) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-4. 🗣 Commented on [#3507](https://github.com/vuejs/vue-next/issues/3507) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-5. 🗣 Commented on [#3507](https://github.com/vuejs/vue-next/issues/3507) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+1. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/webpack-ex/pull/7) in [KunHwanAhn/webpack-ex](https://github.com/KunHwanAhn/webpack-ex)
+2. 🎉 Merged PR [#15](https://github.com/KunHwanAhn/graphql-client-ex/pull/15) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
+3. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/sequelize-ex/pull/8) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
+4. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/study-gulp-travis/pull/7) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
+5. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/study-gulp-travis/pull/6) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
 <!--END_SECTION:activity-->
 
 ### Stats
