@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/webpack-ex/pull/7) in [KunHwanAhn/webpack-ex](https://github.com/KunHwanAhn/webpack-ex)
-2. 🎉 Merged PR [#15](https://github.com/KunHwanAhn/graphql-client-ex/pull/15) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
-3. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/sequelize-ex/pull/8) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
-4. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/study-gulp-travis/pull/7) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
-5. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/study-gulp-travis/pull/6) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
+1. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/7) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
+2. 🎉 Merged PR [#4](https://github.com/KunHwanAhn/lerna-ex/pull/4) in [KunHwanAhn/lerna-ex](https://github.com/KunHwanAhn/lerna-ex)
+3. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/nuxt-ex/pull/6) in [KunHwanAhn/nuxt-ex](https://github.com/KunHwanAhn/nuxt-ex)
+4. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/webpack-ex/pull/7) in [KunHwanAhn/webpack-ex](https://github.com/KunHwanAhn/webpack-ex)
+5. 🎉 Merged PR [#15](https://github.com/KunHwanAhn/graphql-client-ex/pull/15) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
 <!--END_SECTION:activity-->
 
 ### Stats
