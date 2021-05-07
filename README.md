@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/sequelize-ex/pull/9) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
-2. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/webpack-ex/pull/8) in [KunHwanAhn/webpack-ex](https://github.com/KunHwanAhn/webpack-ex)
-3. 🎉 Merged PR [#5](https://github.com/KunHwanAhn/lerna-ex/pull/5) in [KunHwanAhn/lerna-ex](https://github.com/KunHwanAhn/lerna-ex)
-4. 🎉 Merged PR [#13](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/13) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
-5. 💪 Opened PR [#13](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/13) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
+1. 🎉 Merged PR [#10](https://github.com/KunHwanAhn/sequelize-ex/pull/10) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
+2. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/sequelize-ex/pull/9) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
+3. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/webpack-ex/pull/8) in [KunHwanAhn/webpack-ex](https://github.com/KunHwanAhn/webpack-ex)
+4. 🎉 Merged PR [#5](https://github.com/KunHwanAhn/lerna-ex/pull/5) in [KunHwanAhn/lerna-ex](https://github.com/KunHwanAhn/lerna-ex)
+5. 🎉 Merged PR [#13](https://github.com/KunHwanAhn/webpack-babel-vue3-template/pull/13) in [KunHwanAhn/webpack-babel-vue3-template](https://github.com/KunHwanAhn/webpack-babel-vue3-template)
 <!--END_SECTION:activity-->
 
 ### Stats
