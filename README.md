@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/lerna-ex/pull/8) in [KunHwanAhn/lerna-ex](https://github.com/KunHwanAhn/lerna-ex)
-2. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/lerna-ex/pull/7) in [KunHwanAhn/lerna-ex](https://github.com/KunHwanAhn/lerna-ex)
-3. 🎉 Merged PR [#32](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/32) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
-4. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/nuxt-ex/pull/9) in [KunHwanAhn/nuxt-ex](https://github.com/KunHwanAhn/nuxt-ex)
-5. 🎉 Merged PR [#18](https://github.com/KunHwanAhn/graphql-client-ex/pull/18) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
+1. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/webpack-ex/pull/9) in [KunHwanAhn/webpack-ex](https://github.com/KunHwanAhn/webpack-ex)
+2. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/babel-ex/pull/3) in [KunHwanAhn/babel-ex](https://github.com/KunHwanAhn/babel-ex)
+3. 🎉 Merged PR [#14](https://github.com/KunHwanAhn/graphql-ex/pull/14) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
+4. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/lerna-ex/pull/8) in [KunHwanAhn/lerna-ex](https://github.com/KunHwanAhn/lerna-ex)
+5. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/lerna-ex/pull/7) in [KunHwanAhn/lerna-ex](https://github.com/KunHwanAhn/lerna-ex)
 <!--END_SECTION:activity-->
 
 ### Stats
