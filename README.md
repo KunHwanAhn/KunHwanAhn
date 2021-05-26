@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/34) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
-2. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/11) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
-3. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/sequelize-ex/pull/11) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
-4. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/eslint-prettier/pull/3) in [KunHwanAhn/eslint-prettier](https://github.com/KunHwanAhn/eslint-prettier)
-5. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/study-gulp-travis/pull/8) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
+1. 🎉 Merged PR [#20](https://github.com/KunHwanAhn/graphql-client-ex/pull/20) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
+2. 🎉 Merged PR [#4](https://github.com/KunHwanAhn/babel-ex/pull/4) in [KunHwanAhn/babel-ex](https://github.com/KunHwanAhn/babel-ex)
+3. 🎉 Merged PR [#34](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/34) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
+4. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/11) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
+5. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/sequelize-ex/pull/11) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
 <!--END_SECTION:activity-->
 
 ### Stats
