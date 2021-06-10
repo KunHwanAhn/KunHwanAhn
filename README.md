@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/KunHwanAhn/vue-test-util-ex/pull/5) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-2. 🎉 Merged PR [#4](https://github.com/KunHwanAhn/vue-test-util-ex/pull/4) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-3. 🎉 Merged PR [#22](https://github.com/KunHwanAhn/graphql-client-ex/pull/22) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
-4. 🎉 Merged PR [#14](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/14) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
-5. 🎉 Merged PR [#12](https://github.com/KunHwanAhn/nuxt-ex/pull/12) in [KunHwanAhn/nuxt-ex](https://github.com/KunHwanAhn/nuxt-ex)
+1. 🎉 Merged PR [#5](https://github.com/KunHwanAhn/vue-test-util-ex/pull/5) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+2. 💪 Opened PR [#5](https://github.com/KunHwanAhn/vue-test-util-ex/pull/5) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+3. 🎉 Merged PR [#4](https://github.com/KunHwanAhn/vue-test-util-ex/pull/4) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+4. 🎉 Merged PR [#22](https://github.com/KunHwanAhn/graphql-client-ex/pull/22) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
+5. 🎉 Merged PR [#14](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/14) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
 <!--END_SECTION:activity-->
 
 ### Stats
