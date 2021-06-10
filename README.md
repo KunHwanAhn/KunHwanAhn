@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/vue-test-util-ex/pull/6) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-2. 💪 Opened PR [#6](https://github.com/KunHwanAhn/vue-test-util-ex/pull/6) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-3. 🎉 Merged PR [#5](https://github.com/KunHwanAhn/vue-test-util-ex/pull/5) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-4. 💪 Opened PR [#5](https://github.com/KunHwanAhn/vue-test-util-ex/pull/5) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-5. 🎉 Merged PR [#4](https://github.com/KunHwanAhn/vue-test-util-ex/pull/4) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+1. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/vue-test-util-ex/pull/7) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+2. 💪 Opened PR [#7](https://github.com/KunHwanAhn/vue-test-util-ex/pull/7) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+3. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/vue-test-util-ex/pull/6) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+4. 💪 Opened PR [#6](https://github.com/KunHwanAhn/vue-test-util-ex/pull/6) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+5. 🎉 Merged PR [#5](https://github.com/KunHwanAhn/vue-test-util-ex/pull/5) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
 <!--END_SECTION:activity-->
 
 ### Stats
