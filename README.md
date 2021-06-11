@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/vue-test-util-ex/pull/7) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-2. 💪 Opened PR [#7](https://github.com/KunHwanAhn/vue-test-util-ex/pull/7) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-3. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/vue-test-util-ex/pull/6) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-4. 💪 Opened PR [#6](https://github.com/KunHwanAhn/vue-test-util-ex/pull/6) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
-5. 🎉 Merged PR [#5](https://github.com/KunHwanAhn/vue-test-util-ex/pull/5) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
+1. 🎉 Merged PR [#16](https://github.com/KunHwanAhn/graphql-ex/pull/16) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
+2. 🎉 Merged PR [#17](https://github.com/KunHwanAhn/graphql-ex/pull/17) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
+3. 🎉 Merged PR [#4](https://github.com/KunHwanAhn/eslint-prettier/pull/4) in [KunHwanAhn/eslint-prettier](https://github.com/KunHwanAhn/eslint-prettier)
+4. 🎉 Merged PR [#15](https://github.com/KunHwanAhn/graphql-ex/pull/15) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
+5. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/vue-test-util-ex/pull/7) in [KunHwanAhn/vue-test-util-ex](https://github.com/KunHwanAhn/vue-test-util-ex)
 <!--END_SECTION:activity-->
 
 ### Stats
