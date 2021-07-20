@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/refactoring_2nd/pull/2) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-2. 💪 Opened PR [#2](https://github.com/KunHwanAhn/refactoring_2nd/pull/2) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-3. 💪 Opened PR [#1](https://github.com/KunHwanAhn/refactoring_2nd/pull/1) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-4. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/8) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-5. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/9) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+1. 🎉 Merged PR [#13](https://github.com/KunHwanAhn/sequelize-ex/pull/13) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
+2. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/refactoring_2nd/pull/2) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+3. 💪 Opened PR [#2](https://github.com/KunHwanAhn/refactoring_2nd/pull/2) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+4. 💪 Opened PR [#1](https://github.com/KunHwanAhn/refactoring_2nd/pull/1) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+5. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/8) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
 <!--END_SECTION:activity-->
 
 ### Stats
