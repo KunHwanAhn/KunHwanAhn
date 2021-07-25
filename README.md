@@ -67,14 +67,14 @@
     >
   </a>
   <a
-    href="https://github.com/KunHwanAhn/eslint-prettier"
+    href="https://github.com/KunHwanAhn/refactoring_2nd"
     target="_blank"
     rel="noopener noreferrer"
     style="display: block; margin: 2px;"
   >
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=KunHwanAhn&repo=eslint-prettier"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=KunHwanAhn&repo=refactoring_2nd"
     >
   </a>
   <a
