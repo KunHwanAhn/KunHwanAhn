@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/KunHwanAhn/study-gulp-travis/pull/10) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
-2. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/study-gulp-travis/pull/9) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
-3. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/lerna-ex/pull/9) in [KunHwanAhn/lerna-ex](https://github.com/KunHwanAhn/lerna-ex)
-4. 🎉 Merged PR [#40](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/40) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
-5. 🎉 Merged PR [#39](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/39) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
+1. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/study-gulp-travis/pull/11) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
+2. 🎉 Merged PR [#10](https://github.com/KunHwanAhn/study-gulp-travis/pull/10) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
+3. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/study-gulp-travis/pull/9) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
+4. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/lerna-ex/pull/9) in [KunHwanAhn/lerna-ex](https://github.com/KunHwanAhn/lerna-ex)
+5. 🎉 Merged PR [#40](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/40) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
 <!--END_SECTION:activity-->
 
 ### Stats
