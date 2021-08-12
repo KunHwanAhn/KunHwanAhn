@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/study-gulp-travis/pull/11) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
-2. 🎉 Merged PR [#10](https://github.com/KunHwanAhn/study-gulp-travis/pull/10) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
-3. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/study-gulp-travis/pull/9) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
-4. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/lerna-ex/pull/9) in [KunHwanAhn/lerna-ex](https://github.com/KunHwanAhn/lerna-ex)
-5. 🎉 Merged PR [#40](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/40) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
+1. 🎉 Merged PR [#5](https://github.com/KunHwanAhn/babel-ex/pull/5) in [KunHwanAhn/babel-ex](https://github.com/KunHwanAhn/babel-ex)
+2. 🎉 Merged PR [#24](https://github.com/KunHwanAhn/graphql-client-ex/pull/24) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
+3. 🎉 Merged PR [#14](https://github.com/KunHwanAhn/sequelize-ex/pull/14) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
+4. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/study-gulp-travis/pull/11) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
+5. 🎉 Merged PR [#10](https://github.com/KunHwanAhn/study-gulp-travis/pull/10) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
 <!--END_SECTION:activity-->
 
 ### Stats
