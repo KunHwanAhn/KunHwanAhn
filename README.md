@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/KunHwanAhn/refactoring_2nd/pull/5) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-2. 💪 Opened PR [#5](https://github.com/KunHwanAhn/refactoring_2nd/pull/5) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-3. 🎉 Merged PR [#17](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/17) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
-4. 🎉 Merged PR [#18](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/18) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
-5. 🎉 Merged PR [#15](https://github.com/KunHwanAhn/nuxt-ex/pull/15) in [KunHwanAhn/nuxt-ex](https://github.com/KunHwanAhn/nuxt-ex)
+1. 💪 Opened PR [#6](https://github.com/KunHwanAhn/refactoring_2nd/pull/6) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+2. 🎉 Merged PR [#5](https://github.com/KunHwanAhn/refactoring_2nd/pull/5) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+3. 💪 Opened PR [#5](https://github.com/KunHwanAhn/refactoring_2nd/pull/5) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+4. 🎉 Merged PR [#17](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/17) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
+5. 🎉 Merged PR [#18](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/18) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
 <!--END_SECTION:activity-->
 
 ### Stats
