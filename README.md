@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/refactoring_2nd/pull/9) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-2. ❗️ Closed issue [#8](https://github.com/KunHwanAhn/refactoring_2nd/issues/8) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-3. 💪 Opened PR [#9](https://github.com/KunHwanAhn/refactoring_2nd/pull/9) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-4. ❗️ Opened issue [#8](https://github.com/KunHwanAhn/refactoring_2nd/issues/8) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-5. ❗️ Opened issue [#7](https://github.com/KunHwanAhn/refactoring_2nd/issues/7) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+1. 🎉 Merged PR [#43](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/43) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
+2. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/refactoring_2nd/pull/9) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+3. ❗️ Closed issue [#8](https://github.com/KunHwanAhn/refactoring_2nd/issues/8) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+4. 💪 Opened PR [#9](https://github.com/KunHwanAhn/refactoring_2nd/pull/9) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+5. ❗️ Opened issue [#8](https://github.com/KunHwanAhn/refactoring_2nd/issues/8) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
 <!--END_SECTION:activity-->
 
 ### Stats
