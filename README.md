@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/lerna-ex/pull/11) in [KunHwanAhn/lerna-ex](https://github.com/KunHwanAhn/lerna-ex)
-2. 🎉 Merged PR [#18](https://github.com/KunHwanAhn/graphql-ex/pull/18) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
-3. 🎉 Merged PR [#12](https://github.com/KunHwanAhn/study-gulp-travis/pull/12) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
-4. 🎉 Merged PR [#43](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/43) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
-5. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/refactoring_2nd/pull/9) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+1. 💪 Opened PR [#11](https://github.com/KunHwanAhn/refactoring_2nd/pull/11) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+2. ❗️ Opened issue [#10](https://github.com/KunHwanAhn/refactoring_2nd/issues/10) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+3. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/lerna-ex/pull/11) in [KunHwanAhn/lerna-ex](https://github.com/KunHwanAhn/lerna-ex)
+4. 🎉 Merged PR [#18](https://github.com/KunHwanAhn/graphql-ex/pull/18) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
+5. 🎉 Merged PR [#12](https://github.com/KunHwanAhn/study-gulp-travis/pull/12) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
 <!--END_SECTION:activity-->
 
 ### Stats
