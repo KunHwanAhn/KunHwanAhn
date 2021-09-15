@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/KunHwanAhn/refactoring_2nd/pull/13) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-2. ❗️ Opened issue [#12](https://github.com/KunHwanAhn/refactoring_2nd/issues/12) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-3. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/refactoring_2nd/pull/11) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-4. ❗️ Closed issue [#10](https://github.com/KunHwanAhn/refactoring_2nd/issues/10) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-5. 💪 Opened PR [#11](https://github.com/KunHwanAhn/refactoring_2nd/pull/11) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+1. 🎉 Merged PR [#13](https://github.com/KunHwanAhn/refactoring_2nd/pull/13) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+2. 💪 Opened PR [#13](https://github.com/KunHwanAhn/refactoring_2nd/pull/13) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+3. ❗️ Opened issue [#12](https://github.com/KunHwanAhn/refactoring_2nd/issues/12) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+4. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/refactoring_2nd/pull/11) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+5. ❗️ Closed issue [#10](https://github.com/KunHwanAhn/refactoring_2nd/issues/10) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
 <!--END_SECTION:activity-->
 
 ### Stats
