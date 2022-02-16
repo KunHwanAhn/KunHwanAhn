@@ -94,13 +94,16 @@
 
 ### ⚡ Recent Activity
 
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/KunHwanAhn/refactoring_2nd/issues/12) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-2. 🎉 Merged PR [#13](https://github.com/KunHwanAhn/refactoring_2nd/pull/13) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-3. 💪 Opened PR [#13](https://github.com/KunHwanAhn/refactoring_2nd/pull/13) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-4. ❗️ Opened issue [#12](https://github.com/KunHwanAhn/refactoring_2nd/issues/12) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-5. 🎉 Merged PR [#11](https://github.com/KunHwanAhn/refactoring_2nd/pull/11) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+1. 💪 Opened PR [#17](https://github.com/KunHwanAhn/KunHwanAhn/pull/17) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+2. ✌️ Released [22.02.1](https://github.com/KunHwanAhn/react-study-2022-01/releases/tag/22.02.1) in [KunHwanAhn/react-study-2022-01](https://github.com/KunHwanAhn/react-study-2022-01)
+3. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/react-study-2022-01/pull/9) in [KunHwanAhn/react-study-2022-01](https://github.com/KunHwanAhn/react-study-2022-01)
+4. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/react-study-2022-01/pull/8) in [KunHwanAhn/react-study-2022-01](https://github.com/KunHwanAhn/react-study-2022-01)
+5. 💪 Opened PR [#9](https://github.com/KunHwanAhn/react-study-2022-01/pull/9) in [KunHwanAhn/react-study-2022-01](https://github.com/KunHwanAhn/react-study-2022-01)
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Wednesday, February 16th, 2022, 4:32:54 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ### Stats
 
