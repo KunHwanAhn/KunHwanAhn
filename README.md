@@ -94,8 +94,16 @@
 
 ### ⚡ Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+1. 💪 Opened PR [#17](https://github.com/KunHwanAhn/KunHwanAhn/pull/17) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+2. ✌️ Released [22.02.1](https://github.com/KunHwanAhn/react-study-2022-01/releases/tag/22.02.1) in [KunHwanAhn/react-study-2022-01](https://github.com/KunHwanAhn/react-study-2022-01)
+3. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/react-study-2022-01/pull/9) in [KunHwanAhn/react-study-2022-01](https://github.com/KunHwanAhn/react-study-2022-01)
+4. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/react-study-2022-01/pull/8) in [KunHwanAhn/react-study-2022-01](https://github.com/KunHwanAhn/react-study-2022-01)
+5. 💪 Opened PR [#9](https://github.com/KunHwanAhn/react-study-2022-01/pull/9) in [KunHwanAhn/react-study-2022-01](https://github.com/KunHwanAhn/react-study-2022-01)
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Wednesday, February 16th, 2022, 4:32:54 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ### Stats
 
