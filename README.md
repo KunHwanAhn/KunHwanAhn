@@ -95,14 +95,14 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#17](https://github.com/KunHwanAhn/KunHwanAhn/pull/17) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
-2. ✌️ Released [22.02.1](https://github.com/KunHwanAhn/react-study-2022-01/releases/tag/22.02.1) in [KunHwanAhn/react-study-2022-01](https://github.com/KunHwanAhn/react-study-2022-01)
-3. 🎉 Merged PR [#9](https://github.com/KunHwanAhn/react-study-2022-01/pull/9) in [KunHwanAhn/react-study-2022-01](https://github.com/KunHwanAhn/react-study-2022-01)
-4. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/react-study-2022-01/pull/8) in [KunHwanAhn/react-study-2022-01](https://github.com/KunHwanAhn/react-study-2022-01)
-5. 💪 Opened PR [#9](https://github.com/KunHwanAhn/react-study-2022-01/pull/9) in [KunHwanAhn/react-study-2022-01](https://github.com/KunHwanAhn/react-study-2022-01)
+1. ✌️ Released [22.02.0](https://github.com/KunHwanAhn/KunHwanAhn/releases/tag/22.02.0) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+2. 🎉 Merged PR [#19](https://github.com/KunHwanAhn/KunHwanAhn/pull/19) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+3. 🎉 Merged PR [#18](https://github.com/KunHwanAhn/KunHwanAhn/pull/18) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+4. 💪 Opened PR [#19](https://github.com/KunHwanAhn/KunHwanAhn/pull/19) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+5. 💪 Opened PR [#18](https://github.com/KunHwanAhn/KunHwanAhn/pull/18) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 16th, 2022, 4:32:54 PM
+Last Updated: Wednesday, February 16th, 2022, 5:18:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Stats
