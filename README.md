@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [22.02.0](https://github.com/KunHwanAhn/KunHwanAhn/releases/tag/22.02.0) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
-2. 🎉 Merged PR [#19](https://github.com/KunHwanAhn/KunHwanAhn/pull/19) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
-3. 🎉 Merged PR [#18](https://github.com/KunHwanAhn/KunHwanAhn/pull/18) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
-4. 💪 Opened PR [#19](https://github.com/KunHwanAhn/KunHwanAhn/pull/19) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
-5. 💪 Opened PR [#18](https://github.com/KunHwanAhn/KunHwanAhn/pull/18) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+1. ✌️ Released [22.02.1](https://github.com/KunHwanAhn/KunHwanAhn/releases/tag/22.02.1) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+2. 🎉 Merged PR [#21](https://github.com/KunHwanAhn/KunHwanAhn/pull/21) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+3. 🎉 Merged PR [#20](https://github.com/KunHwanAhn/KunHwanAhn/pull/20) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+4. 💪 Opened PR [#21](https://github.com/KunHwanAhn/KunHwanAhn/pull/21) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+5. 💪 Opened PR [#20](https://github.com/KunHwanAhn/KunHwanAhn/pull/20) in [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
