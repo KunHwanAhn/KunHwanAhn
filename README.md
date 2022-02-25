@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [KunHwanAhn/sleact](https://github.com/KunHwanAhn/sleact) from [ZeroCho/sleact](https://github.com/ZeroCho/sleact)
-2. 📔 Created new repository [KunHwanAhn/vanilla-javascript-ex](https://github.com/KunHwanAhn/vanilla-javascript-ex)
-3. 🎉 Merged PR [#30](https://github.com/KunHwanAhn/graphql-client-ex/pull/30) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
-4. 🎉 Merged PR [#48](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/48) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
-5. 🎉 Merged PR [#22](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/22) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
+1. 🔱 Forked [KunHwanAhn/vue-3-typescript](https://github.com/KunHwanAhn/vue-3-typescript) from [Code-Pop/vue-3-typescript](https://github.com/Code-Pop/vue-3-typescript)
+2. 🔱 Forked [KunHwanAhn/sleact](https://github.com/KunHwanAhn/sleact) from [ZeroCho/sleact](https://github.com/ZeroCho/sleact)
+3. 📔 Created new repository [KunHwanAhn/vanilla-javascript-ex](https://github.com/KunHwanAhn/vanilla-javascript-ex)
+4. 🎉 Merged PR [#30](https://github.com/KunHwanAhn/graphql-client-ex/pull/30) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
+5. 🎉 Merged PR [#48](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/48) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
