@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#12](https://github.com/KunHwanAhn/react-study-2022/pull/12) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-2. 🎉 Merged PR [#13](https://github.com/KunHwanAhn/react-study-2022/pull/13) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-3. 🎉 Merged PR [#25](https://github.com/KunHwanAhn/graphql-ex/pull/25) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
-4. 🎉 Merged PR [#10](https://github.com/KunHwanAhn/react-study-2022/pull/10) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-5. 🎉 Merged PR [#32](https://github.com/KunHwanAhn/graphql-client-ex/pull/32) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
+1. 🎉 Merged PR [#20](https://github.com/KunHwanAhn/sequelize-ex/pull/20) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
+2. 🎉 Merged PR [#12](https://github.com/KunHwanAhn/react-study-2022/pull/12) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+3. 🎉 Merged PR [#13](https://github.com/KunHwanAhn/react-study-2022/pull/13) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+4. 🎉 Merged PR [#25](https://github.com/KunHwanAhn/graphql-ex/pull/25) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
+5. 🎉 Merged PR [#10](https://github.com/KunHwanAhn/react-study-2022/pull/10) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
