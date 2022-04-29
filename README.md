@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#33](https://github.com/KunHwanAhn/graphql-client-ex/pull/33) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
-2. 🎉 Merged PR [#20](https://github.com/KunHwanAhn/sequelize-ex/pull/20) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
-3. 🎉 Merged PR [#12](https://github.com/KunHwanAhn/react-study-2022/pull/12) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-4. 🎉 Merged PR [#13](https://github.com/KunHwanAhn/react-study-2022/pull/13) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-5. 🎉 Merged PR [#25](https://github.com/KunHwanAhn/graphql-ex/pull/25) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
+1. 🎉 Merged PR [#51](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/51) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
+2. 🎉 Merged PR [#33](https://github.com/KunHwanAhn/graphql-client-ex/pull/33) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
+3. 🎉 Merged PR [#20](https://github.com/KunHwanAhn/sequelize-ex/pull/20) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
+4. 🎉 Merged PR [#12](https://github.com/KunHwanAhn/react-study-2022/pull/12) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+5. 🎉 Merged PR [#13](https://github.com/KunHwanAhn/react-study-2022/pull/13) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
