@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
-2. 🎉 Merged PR [#34](https://github.com/KunHwanAhn/graphql-client-ex/pull/34) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
-4. 🎉 Merged PR [#52](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/52) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/nuxt-ex](https://github.com/KunHwanAhn/nuxt-ex)
+2. 🎉 Merged PR [#19](https://github.com/KunHwanAhn/nuxt-ex/pull/19) in [KunHwanAhn/nuxt-ex](https://github.com/KunHwanAhn/nuxt-ex)
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
+4. 🎉 Merged PR [#35](https://github.com/KunHwanAhn/graphql-client-ex/pull/35) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
