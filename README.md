@@ -95,10 +95,10 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/nuxt-ex](https://github.com/KunHwanAhn/nuxt-ex)
-2. 🎉 Merged PR [#19](https://github.com/KunHwanAhn/nuxt-ex/pull/19) in [KunHwanAhn/nuxt-ex](https://github.com/KunHwanAhn/nuxt-ex)
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
-4. 🎉 Merged PR [#35](https://github.com/KunHwanAhn/graphql-client-ex/pull/35) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
+2. 🎉 Merged PR [#14](https://github.com/KunHwanAhn/study-gulp-travis/pull/14) in [KunHwanAhn/study-gulp-travis](https://github.com/KunHwanAhn/study-gulp-travis)
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/nuxt-ex](https://github.com/KunHwanAhn/nuxt-ex)
+4. 🎉 Merged PR [#19](https://github.com/KunHwanAhn/nuxt-ex/pull/19) in [KunHwanAhn/nuxt-ex](https://github.com/KunHwanAhn/nuxt-ex)
 5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
 <!--RECENT_ACTIVITY:end-->
 
