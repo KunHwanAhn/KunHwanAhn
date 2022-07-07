@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🔭 I’m currently working at <a href="https://barogo.com" target="_blank" rel="noopener noreferrer">Barogo</a> as a Front-end Developer.
+  🔭 I’m taking a rest.
 </h3>
 
 <br>
