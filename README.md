@@ -96,10 +96,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+2. 🎉 Merged PR [#20](https://github.com/KunHwanAhn/react-study-2022/pull/20) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
 3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-4. ⬆️ Pushed 2 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-5. 💪 Opened PR [#20](https://github.com/KunHwanAhn/react-study-2022/pull/20) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
