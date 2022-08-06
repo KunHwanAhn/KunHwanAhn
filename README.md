@@ -95,10 +95,10 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-3. 🎉 Merged PR [#20](https://github.com/KunHwanAhn/react-study-2022/pull/20) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
+2. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/webpack-babel-react-18-template/pull/1) in [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
+3. 💪 Opened PR [#1](https://github.com/KunHwanAhn/webpack-babel-react-18-template/pull/1) in [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
+4. 📔 Created new repository [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
 5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
 <!--RECENT_ACTIVITY:end-->
 
