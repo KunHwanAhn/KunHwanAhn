@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
-2. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/webpack-babel-react-18-template/pull/1) in [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
-3. 💪 Opened PR [#1](https://github.com/KunHwanAhn/webpack-babel-react-18-template/pull/1) in [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
-4. 📔 Created new repository [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+1. 🔱 Forked [KunHwanAhn/build-a-blog-with-nuxt-3-and-nuxt-content-v2](https://github.com/KunHwanAhn/build-a-blog-with-nuxt-3-and-nuxt-content-v2) from [Code-Pop/build-a-blog-with-nuxt-3-and-nuxt-content-v2](https://github.com/Code-Pop/build-a-blog-with-nuxt-3-and-nuxt-content-v2)
+2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
+3. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/webpack-babel-react-18-template/pull/1) in [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
+4. 💪 Opened PR [#1](https://github.com/KunHwanAhn/webpack-babel-react-18-template/pull/1) in [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
+5. 📔 Created new repository [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
