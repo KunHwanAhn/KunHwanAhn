@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#374](https://github.com/reactjs/ko.reactjs.org/issues/374#issuecomment-1233906911) in [reactjs/ko.reactjs.org](https://github.com/reactjs/ko.reactjs.org)
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
-3. 🎉 Merged PR [#21](https://github.com/KunHwanAhn/sequelize-ex/pull/21) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
-5. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/webpack-babel-react-18-template/pull/3) in [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
+1. 📔 Created new repository [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
+2. 💬 Commented on [#374](https://github.com/reactjs/ko.reactjs.org/issues/374#issuecomment-1233906911) in [reactjs/ko.reactjs.org](https://github.com/reactjs/ko.reactjs.org)
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
+4. 🎉 Merged PR [#21](https://github.com/KunHwanAhn/sequelize-ex/pull/21) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-react-18-template](https://github.com/KunHwanAhn/webpack-babel-react-18-template)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
