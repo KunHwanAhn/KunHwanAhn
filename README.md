@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/KunHwanAhn/typescript-ex/pull/1) in [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
-2. 📔 Created new repository [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
-3. 💬 Commented on [#374](https://github.com/reactjs/ko.reactjs.org/issues/374#issuecomment-1233906911) in [reactjs/ko.reactjs.org](https://github.com/reactjs/ko.reactjs.org)
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
-5. 🎉 Merged PR [#21](https://github.com/KunHwanAhn/sequelize-ex/pull/21) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
+2. 💪 Opened PR [#1](https://github.com/KunHwanAhn/typescript-ex/pull/1) in [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
+3. 📔 Created new repository [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
+4. 💬 Commented on [#374](https://github.com/reactjs/ko.reactjs.org/issues/374#issuecomment-1233906911) in [reactjs/ko.reactjs.org](https://github.com/reactjs/ko.reactjs.org)
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
