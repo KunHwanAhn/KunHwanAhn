@@ -97,9 +97,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
 2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
-3. 💪 Opened PR [#1](https://github.com/KunHwanAhn/typescript-ex/pull/1) in [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
-4. 📔 Created new repository [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
-5. 💬 Commented on [#374](https://github.com/reactjs/ko.reactjs.org/issues/374#issuecomment-1233906911) in [reactjs/ko.reactjs.org](https://github.com/reactjs/ko.reactjs.org)
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
+4. 💪 Opened PR [#1](https://github.com/KunHwanAhn/typescript-ex/pull/1) in [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
+5. 📔 Created new repository [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
