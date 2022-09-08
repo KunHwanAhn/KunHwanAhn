@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
-3. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/typescript-ex/pull/1) in [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/typescript-ex](https://github.com/KunHwanAhn/typescript-ex)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
+2. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/redux-study/pull/2) in [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
+3. 💪 Opened PR [#2](https://github.com/KunHwanAhn/redux-study/pull/2) in [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
+5. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/redux-study/pull/1) in [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
