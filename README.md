@@ -96,10 +96,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-2. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/2) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-3. 💪 Opened PR [#2](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/2) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-5. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/1) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+2. 💪 Opened PR [#3](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/3) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+4. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/2) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+5. 💪 Opened PR [#2](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/2) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
