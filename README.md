@@ -95,10 +95,10 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
-3. 🎉 Merged PR [#4](https://github.com/KunHwanAhn/redux-study/pull/4) in [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
-4. 💪 Opened PR [#4](https://github.com/KunHwanAhn/redux-study/pull/4) in [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+2. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/1) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+3. 💪 Opened PR [#1](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/1) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+4. 📔 Created new repository [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
 5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
 <!--RECENT_ACTIVITY:end-->
 
