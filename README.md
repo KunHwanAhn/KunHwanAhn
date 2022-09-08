@@ -96,10 +96,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
-2. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/redux-study/pull/2) in [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
-3. 💪 Opened PR [#2](https://github.com/KunHwanAhn/redux-study/pull/2) in [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
+2. 🎉 Merged PR [#4](https://github.com/KunHwanAhn/redux-study/pull/4) in [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
+3. 💪 Opened PR [#4](https://github.com/KunHwanAhn/redux-study/pull/4) in [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
 4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
-5. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/redux-study/pull/1) in [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/redux-study](https://github.com/KunHwanAhn/redux-study)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
