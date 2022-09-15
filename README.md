@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#168](https://github.com/microsoft/TypeScript-Website-Localizations/pull/168#discussion_r971980910) in [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
-2. 💬 Commented on [#168](https://github.com/microsoft/TypeScript-Website-Localizations/pull/168#discussion_r971968293) in [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
-3. 💬 Commented on [#168](https://github.com/microsoft/TypeScript-Website-Localizations/pull/168#discussion_r971968884) in [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
-4. 💪 Opened PR [#168](https://github.com/microsoft/TypeScript-Website-Localizations/pull/168) in [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
-5. 💬 Commented on [#167](https://github.com/microsoft/TypeScript-Website-Localizations/issues/167#issuecomment-1248037024) in [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
+1. ⬆️ Pushed 4 commit(s) to [KunHwanAhn/TypeScript-Website-Localizations](https://github.com/KunHwanAhn/TypeScript-Website-Localizations)
+2. 💬 Commented on [#168](https://github.com/microsoft/TypeScript-Website-Localizations/pull/168#discussion_r971980910) in [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
+3. 💬 Commented on [#168](https://github.com/microsoft/TypeScript-Website-Localizations/pull/168#discussion_r971968293) in [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
+4. 💬 Commented on [#168](https://github.com/microsoft/TypeScript-Website-Localizations/pull/168#discussion_r971968884) in [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
+5. 💪 Opened PR [#168](https://github.com/microsoft/TypeScript-Website-Localizations/pull/168) in [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
