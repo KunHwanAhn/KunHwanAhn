@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
-2. ❌ Closed PR [#4](https://github.com/KunHwanAhn/refactoring_2nd/pull/4) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
-3. ⬆️ Pushed 4 commit(s) to [KunHwanAhn/TypeScript-Website-Localizations](https://github.com/KunHwanAhn/TypeScript-Website-Localizations)
-4. 💬 Commented on [#168](https://github.com/microsoft/TypeScript-Website-Localizations/pull/168#discussion_r971980910) in [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
-5. 💬 Commented on [#168](https://github.com/microsoft/TypeScript-Website-Localizations/pull/168#discussion_r971968293) in [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
+1. ⬆️ Pushed 5 commit(s) to [KunHwanAhn/TypeScript-Website-Localizations](https://github.com/KunHwanAhn/TypeScript-Website-Localizations)
+2. 💬 Commented on [#168](https://github.com/microsoft/TypeScript-Website-Localizations/pull/168#issuecomment-1254644044) in [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
+3. ⭐ Starred [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
+4. ❌ Closed PR [#4](https://github.com/KunHwanAhn/refactoring_2nd/pull/4) in [KunHwanAhn/refactoring_2nd](https://github.com/KunHwanAhn/refactoring_2nd)
+5. ⬆️ Pushed 4 commit(s) to [KunHwanAhn/TypeScript-Website-Localizations](https://github.com/KunHwanAhn/TypeScript-Website-Localizations)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
