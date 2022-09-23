@@ -96,10 +96,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/nextjs-ex](https://github.com/KunHwanAhn/nextjs-ex)
-2. 📔 Created new repository [KunHwanAhn/nextjs-ex](https://github.com/KunHwanAhn/nextjs-ex)
-3. 💬 Commented on [#12](https://github.com/lerna/getting-started-example/issues/12#issuecomment-1255321636) in [lerna/getting-started-example](https://github.com/lerna/getting-started-example)
-4. 💬 Commented on [#12](https://github.com/lerna/getting-started-example/issues/12#issuecomment-1255311148) in [lerna/getting-started-example](https://github.com/lerna/getting-started-example)
-5. 📔 Created new repository [KunHwanAhn/lerna-ex](https://github.com/KunHwanAhn/lerna-ex)
+2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/nextjs-ex](https://github.com/KunHwanAhn/nextjs-ex)
+3. 📔 Created new repository [KunHwanAhn/nextjs-ex](https://github.com/KunHwanAhn/nextjs-ex)
+4. 💬 Commented on [#12](https://github.com/lerna/getting-started-example/issues/12#issuecomment-1255321636) in [lerna/getting-started-example](https://github.com/lerna/getting-started-example)
+5. 💬 Commented on [#12](https://github.com/lerna/getting-started-example/issues/12#issuecomment-1255311148) in [lerna/getting-started-example](https://github.com/lerna/getting-started-example)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
