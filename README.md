@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/nextjs-ex](https://github.com/KunHwanAhn/nextjs-ex)
+1. 💬 Commented on [#171](https://github.com/microsoft/TypeScript-Website-Localizations/pull/171#issuecomment-1260282889) in [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
 2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/nextjs-ex](https://github.com/KunHwanAhn/nextjs-ex)
 3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/nextjs-ex](https://github.com/KunHwanAhn/nextjs-ex)
-4. 📔 Created new repository [KunHwanAhn/nextjs-ex](https://github.com/KunHwanAhn/nextjs-ex)
-5. 💬 Commented on [#12](https://github.com/lerna/getting-started-example/issues/12#issuecomment-1255321636) in [lerna/getting-started-example](https://github.com/lerna/getting-started-example)
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/nextjs-ex](https://github.com/KunHwanAhn/nextjs-ex)
+5. 📔 Created new repository [KunHwanAhn/nextjs-ex](https://github.com/KunHwanAhn/nextjs-ex)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
