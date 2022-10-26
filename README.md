@@ -97,9 +97,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
 2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-3. 💪 Opened PR [#10](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/10) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-5. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/6) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
