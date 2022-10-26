@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-2. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/6) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-3. 💪 Opened PR [#6](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/6) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-4. 💬 Commented on [#171](https://github.com/microsoft/TypeScript-Website-Localizations/pull/171#issuecomment-1260282889) in [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations)
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/nextjs-ex](https://github.com/KunHwanAhn/nextjs-ex)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+3. 💪 Opened PR [#10](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/10) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+5. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/6) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
