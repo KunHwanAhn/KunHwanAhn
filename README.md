@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [KunHwanAhn/micro-store-tdd-feconf2022](https://github.com/KunHwanAhn/micro-store-tdd-feconf2022) from [megaptera-kr/micro-store-tdd-feconf2022](https://github.com/megaptera-kr/micro-store-tdd-feconf2022)
-2. 🔱 Forked [KunHwanAhn/frontend-tdd-feconf2020](https://github.com/KunHwanAhn/frontend-tdd-feconf2020) from [megaptera-kr/frontend-tdd-feconf2020](https://github.com/megaptera-kr/frontend-tdd-feconf2020)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+2. 🎉 Merged PR [#12](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/12) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
 3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+4. 💪 Opened PR [#1](https://github.com/KunHwanAhn/micro-store-tdd-feconf2022/pull/1) in [KunHwanAhn/micro-store-tdd-feconf2022](https://github.com/KunHwanAhn/micro-store-tdd-feconf2022)
+5. 🔱 Forked [KunHwanAhn/micro-store-tdd-feconf2022](https://github.com/KunHwanAhn/micro-store-tdd-feconf2022) from [megaptera-kr/micro-store-tdd-feconf2022](https://github.com/megaptera-kr/micro-store-tdd-feconf2022)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
