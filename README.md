@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news)
-2. 🔱 Forked [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news) from [naver/fe-news](https://github.com/naver/fe-news)
-3. ✌️ Released [22.10.0](https://github.com/KunHwanAhn/ParticipatedSeminars/releases/tag/22.10.0) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-4. ⬆️ Pushed 2 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-5. 🎉 Merged PR [#15](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/15) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+1. 💬 Commented on [#36](https://github.com/naver/fe-news/pull/36#discussion_r1011959704) in [naver/fe-news](https://github.com/naver/fe-news)
+2. 💬 Commented on [#36](https://github.com/naver/fe-news/pull/36#discussion_r1011960930) in [naver/fe-news](https://github.com/naver/fe-news)
+3. 💪 Opened PR [#36](https://github.com/naver/fe-news/pull/36) in [naver/fe-news](https://github.com/naver/fe-news)
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news)
+5. 🔱 Forked [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news) from [naver/fe-news](https://github.com/naver/fe-news)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
