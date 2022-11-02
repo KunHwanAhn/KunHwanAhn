@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [22.10.0](https://github.com/KunHwanAhn/ParticipatedSeminars/releases/tag/22.10.0) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-2. ⬆️ Pushed 2 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-3. 🎉 Merged PR [#15](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/15) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-4. ⬆️ Pushed 8 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-5. 🎉 Merged PR [#14](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/14) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+1. 🔱 Forked [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news) from [naver/fe-news](https://github.com/naver/fe-news)
+2. ✌️ Released [22.10.0](https://github.com/KunHwanAhn/ParticipatedSeminars/releases/tag/22.10.0) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+3. ⬆️ Pushed 2 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+4. 🎉 Merged PR [#15](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/15) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+5. ⬆️ Pushed 8 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
