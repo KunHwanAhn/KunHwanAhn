@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [KunHwanAhn/type-challenges](https://github.com/KunHwanAhn/type-challenges) from [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-2. ⭐ Starred [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-3. ⬆️ Pushed 12 commit(s) to [KunHwanAhn/TypeScript-Website-Localizations](https://github.com/KunHwanAhn/TypeScript-Website-Localizations)
-4. 💬 Commented on [#36](https://github.com/naver/fe-news/pull/36#discussion_r1011959704) in [naver/fe-news](https://github.com/naver/fe-news)
-5. 💬 Commented on [#36](https://github.com/naver/fe-news/pull/36#discussion_r1011960930) in [naver/fe-news](https://github.com/naver/fe-news)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news)
+2. 🔱 Forked [KunHwanAhn/type-challenges](https://github.com/KunHwanAhn/type-challenges) from [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+3. ⭐ Starred [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+4. ⬆️ Pushed 12 commit(s) to [KunHwanAhn/TypeScript-Website-Localizations](https://github.com/KunHwanAhn/TypeScript-Website-Localizations)
+5. 💬 Commented on [#36](https://github.com/naver/fe-news/pull/36#discussion_r1011959704) in [naver/fe-news](https://github.com/naver/fe-news)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
