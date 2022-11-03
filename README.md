@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#36](https://github.com/naver/fe-news/pull/36#discussion_r1011959704) in [naver/fe-news](https://github.com/naver/fe-news)
-2. 💬 Commented on [#36](https://github.com/naver/fe-news/pull/36#discussion_r1011960930) in [naver/fe-news](https://github.com/naver/fe-news)
-3. 💪 Opened PR [#36](https://github.com/naver/fe-news/pull/36) in [naver/fe-news](https://github.com/naver/fe-news)
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news)
-5. 🔱 Forked [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news) from [naver/fe-news](https://github.com/naver/fe-news)
+1. ⬆️ Pushed 12 commit(s) to [KunHwanAhn/TypeScript-Website-Localizations](https://github.com/KunHwanAhn/TypeScript-Website-Localizations)
+2. 💬 Commented on [#36](https://github.com/naver/fe-news/pull/36#discussion_r1011959704) in [naver/fe-news](https://github.com/naver/fe-news)
+3. 💬 Commented on [#36](https://github.com/naver/fe-news/pull/36#discussion_r1011960930) in [naver/fe-news](https://github.com/naver/fe-news)
+4. 💪 Opened PR [#36](https://github.com/naver/fe-news/pull/36) in [naver/fe-news](https://github.com/naver/fe-news)
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
