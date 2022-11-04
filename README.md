@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#18532](https://github.com/type-challenges/type-challenges/pull/18532) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news)
-3. 🔱 Forked [KunHwanAhn/type-challenges](https://github.com/KunHwanAhn/type-challenges) from [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-4. ⭐ Starred [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-5. ⬆️ Pushed 12 commit(s) to [KunHwanAhn/TypeScript-Website-Localizations](https://github.com/KunHwanAhn/TypeScript-Website-Localizations)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/type-challenges](https://github.com/KunHwanAhn/type-challenges)
+2. 💪 Opened PR [#18532](https://github.com/type-challenges/type-challenges/pull/18532) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news)
+4. 🔱 Forked [KunHwanAhn/type-challenges](https://github.com/KunHwanAhn/type-challenges) from [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+5. ⭐ Starred [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
