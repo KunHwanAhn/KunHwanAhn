@@ -21,18 +21,7 @@
 
 ## Pinned
 
-<div style="display: flex; flex-wrap: wrap;">
-  <a
-    href="https://github.com/KunHwanAhn/ParticipatedSeminars"
-    target="_blank"
-    rel="noopener noreferrer"
-    style="display: block; margin: 2px;"
-  >
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=KunHwanAhn&repo=ParticipatedSeminars"
-    >
-  </a>
+<div>
   <a
     href="https://github.com/KunHwanAhn/webpack-babel-vue-template"
     target="_blank"
@@ -42,6 +31,17 @@
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=KunHwanAhn&repo=webpack-babel-vue-template"
+    >
+  </a>
+  <a
+    href="https://github.com/KunHwanAhn/webpack-ts-react-18-template"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="display: block; margin: 2px;"
+  >
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=KunHwanAhn&repo=webpack-ts-react-18-template"
     >
   </a>
   <a
@@ -67,25 +67,14 @@
     >
   </a>
   <a
-    href="https://github.com/KunHwanAhn/refactoring_2nd"
+    href="https://github.com/KunHwanAhn/ParticipatedSeminars"
     target="_blank"
     rel="noopener noreferrer"
     style="display: block; margin: 2px;"
   >
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=KunHwanAhn&repo=refactoring_2nd"
-    >
-  </a>
-  <a
-    href="https://github.com/KunHwanAhn/sequelize-ex"
-    target="_blank"
-    rel="noopener noreferrer"
-    style="display: block; margin: 2px;"
-  >
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=KunHwanAhn&repo=sequelize-ex"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=KunHwanAhn&repo=ParticipatedSeminars"
     >
   </a>
 </div>
