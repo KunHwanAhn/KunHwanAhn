@@ -95,11 +95,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-2. 🎉 Merged PR [#23](https://github.com/KunHwanAhn/react-study-2022/pull/23) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-4. 🎉 Merged PR [#22](https://github.com/KunHwanAhn/react-study-2022/pull/22) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+1. ⭐ Starred [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges)
+2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+3. 🎉 Merged PR [#23](https://github.com/KunHwanAhn/react-study-2022/pull/23) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+5. 🎉 Merged PR [#22](https://github.com/KunHwanAhn/react-study-2022/pull/22) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
