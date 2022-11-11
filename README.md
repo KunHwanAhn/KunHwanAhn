@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [KunHwanAhn/js-ts-playground](https://github.com/KunHwanAhn/js-ts-playground)
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
-3. ⭐ Starred [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges)
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-5. 🎉 Merged PR [#23](https://github.com/KunHwanAhn/react-study-2022/pull/23) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/js-ts-playground](https://github.com/KunHwanAhn/js-ts-playground)
+2. 📔 Created new repository [KunHwanAhn/js-ts-playground](https://github.com/KunHwanAhn/js-ts-playground)
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
+4. ⭐ Starred [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges)
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
