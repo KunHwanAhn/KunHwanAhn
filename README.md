@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/js-ts-playground](https://github.com/KunHwanAhn/js-ts-playground)
-2. 📔 Created new repository [KunHwanAhn/js-ts-playground](https://github.com/KunHwanAhn/js-ts-playground)
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/KunHwanAhn](https://github.com/KunHwanAhn/KunHwanAhn)
-4. ⭐ Starred [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges)
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+2. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/7) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+4. 💪 Opened PR [#7](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/7) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
