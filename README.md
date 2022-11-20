@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-2. 🎉 Merged PR [#26](https://github.com/KunHwanAhn/react-study-2022/pull/26) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
-4. 🎉 Merged PR [#56](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/56) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+1. 🔱 Forked [KunHwanAhn/storybook](https://github.com/KunHwanAhn/storybook) from [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+3. 🎉 Merged PR [#26](https://github.com/KunHwanAhn/react-study-2022/pull/26) in [KunHwanAhn/react-study-2022](https://github.com/KunHwanAhn/react-study-2022)
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
+5. 🎉 Merged PR [#56](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/56) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
