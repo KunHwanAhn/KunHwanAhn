@@ -30,7 +30,7 @@
   >
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=KunHwanAhn&repo=webpack-babel-vue-template"
+      src="https://github-readme-stats-kunhwanahn.vercel.app/api/pin/?username=KunHwanAhn&repo=webpack-babel-vue-template"
     >
   </a>
   <a
@@ -41,7 +41,7 @@
   >
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=KunHwanAhn&repo=webpack-ts-react-18-template"
+      src="https://github-readme-stats-kunhwanahn.vercel.app/api/pin/?username=KunHwanAhn&repo=webpack-ts-react-18-template"
     >
   </a>
   <a
@@ -52,7 +52,7 @@
   >
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=KunHwanAhn&repo=graphql-ex"
+      src="https://github-readme-stats-kunhwanahn.vercel.app/api/pin/?username=KunHwanAhn&repo=graphql-ex"
     >
   </a>
   <a
@@ -63,7 +63,7 @@
   >
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=KunHwanAhn&repo=graphql-client-ex"
+      src="https://github-readme-stats-kunhwanahn.vercel.app/api/pin/?username=KunHwanAhn&repo=graphql-client-ex"
     >
   </a>
   <a
@@ -74,7 +74,7 @@
   >
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=KunHwanAhn&repo=ParticipatedSeminars"
+      src="https://github-readme-stats-kunhwanahn.vercel.app/api/pin/?username=KunHwanAhn&repo=ParticipatedSeminars"
     >
   </a>
 </div>
@@ -96,12 +96,12 @@
 <div style="display: flex; flex-wrap: wrap; align-items: start;">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=KunHwanAhn&count_private=true&show_icons=true"
+    src="https://github-readme-stats-kunhwanahn.vercel.app/api?username=KunHwanAhn&count_private=true&show_icons=true"
     style="display: block; margin: 2px;"
   >
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunHwanAhn&layout=compact"
+    src="https://github-readme-stats-kunhwanahn.vercel.app/api/top-langs/?username=KunHwanAhn&layout=compact"
     style="display: block; margin: 2px;"
   >
 </div>
