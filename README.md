@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-2. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/8) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-3. 💪 Opened PR [#8](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/8) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-4. 📔 Created new repository [KunHwanAhn/intro-storybook-react-template](https://github.com/KunHwanAhn/intro-storybook-react-template)
-5. ⬆️ Pushed 3 commit(s) to [KunHwanAhn/github-readme-stats](https://github.com/KunHwanAhn/github-readme-stats)
+1. ⬆️ Pushed 13 commit(s) to [KunHwanAhn/TypeScript-Website-Localizations](https://github.com/KunHwanAhn/TypeScript-Website-Localizations)
+2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+3. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/8) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+4. 💪 Opened PR [#8](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/8) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
+5. 📔 Created new repository [KunHwanAhn/intro-storybook-react-template](https://github.com/KunHwanAhn/intro-storybook-react-template)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
