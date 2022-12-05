@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
-2. 🎉 Merged PR [#38](https://github.com/KunHwanAhn/graphql-client-ex/pull/38) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/babel-ex](https://github.com/KunHwanAhn/babel-ex)
-4. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/babel-ex/pull/7) in [KunHwanAhn/babel-ex](https://github.com/KunHwanAhn/babel-ex)
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ex](https://github.com/KunHwanAhn/webpack-ex)
+1. ✌️ Released [22.12.0](https://github.com/KunHwanAhn/ParticipatedSeminars/releases/tag/22.12.0) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+2. ⬆️ Pushed 5 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+3. 🎉 Merged PR [#16](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/16) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+4. ⬆️ Pushed 3 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+5. 🎉 Merged PR [#17](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/17) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
