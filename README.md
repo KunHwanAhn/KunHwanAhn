@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [22.12.0](https://github.com/KunHwanAhn/ParticipatedSeminars/releases/tag/22.12.0) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-2. ⬆️ Pushed 5 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-3. 🎉 Merged PR [#16](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/16) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-4. ⬆️ Pushed 3 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-5. 🎉 Merged PR [#17](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/17) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/nuxt-ex](https://github.com/KunHwanAhn/nuxt-ex)
+2. 🎉 Merged PR [#21](https://github.com/KunHwanAhn/nuxt-ex/pull/21) in [KunHwanAhn/nuxt-ex](https://github.com/KunHwanAhn/nuxt-ex)
+3. ✌️ Released [22.12.0](https://github.com/KunHwanAhn/ParticipatedSeminars/releases/tag/22.12.0) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+4. ⬆️ Pushed 5 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+5. 🎉 Merged PR [#16](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/16) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
