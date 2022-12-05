@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 13 commit(s) to [KunHwanAhn/TypeScript-Website-Localizations](https://github.com/KunHwanAhn/TypeScript-Website-Localizations)
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-3. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/8) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-4. 💪 Opened PR [#8](https://github.com/KunHwanAhn/webpack-ts-react-18-template/pull/8) in [KunHwanAhn/webpack-ts-react-18-template](https://github.com/KunHwanAhn/webpack-ts-react-18-template)
-5. 📔 Created new repository [KunHwanAhn/intro-storybook-react-template](https://github.com/KunHwanAhn/intro-storybook-react-template)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
+2. 🎉 Merged PR [#38](https://github.com/KunHwanAhn/graphql-client-ex/pull/38) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/babel-ex](https://github.com/KunHwanAhn/babel-ex)
+4. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/babel-ex/pull/7) in [KunHwanAhn/babel-ex](https://github.com/KunHwanAhn/babel-ex)
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-ex](https://github.com/KunHwanAhn/webpack-ex)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
