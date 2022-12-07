@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#22](https://github.com/KunHwanAhn/sequelize-ex/pull/22) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
-4. 🎉 Merged PR [#29](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/29) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
-5. 🎉 Merged PR [#28](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/28) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
+1. 💪 Opened PR [#18](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/18) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+3. 🎉 Merged PR [#22](https://github.com/KunHwanAhn/sequelize-ex/pull/22) in [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/sequelize-ex](https://github.com/KunHwanAhn/sequelize-ex)
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
