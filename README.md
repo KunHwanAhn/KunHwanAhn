@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
-3. 🎉 Merged PR [#30](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/30) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
-5. 🎉 Merged PR [#27](https://github.com/KunHwanAhn/graphql-ex/pull/27) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
+1. 📔 Created new repository [KunHwanAhn/vite-ts-react-18-template](https://github.com/KunHwanAhn/vite-ts-react-18-template)
+2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
+4. 🎉 Merged PR [#30](https://github.com/KunHwanAhn/yarn-workspaces-ex/pull/30) in [KunHwanAhn/yarn-workspaces-ex](https://github.com/KunHwanAhn/yarn-workspaces-ex)
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
