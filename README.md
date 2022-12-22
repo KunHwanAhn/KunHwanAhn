@@ -84,10 +84,10 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news)
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/vite-ts-react-18-template](https://github.com/KunHwanAhn/vite-ts-react-18-template)
-3. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/vite-ts-react-18-template/pull/2) in [KunHwanAhn/vite-ts-react-18-template](https://github.com/KunHwanAhn/vite-ts-react-18-template)
-4. 💪 Opened PR [#2](https://github.com/KunHwanAhn/vite-ts-react-18-template/pull/2) in [KunHwanAhn/vite-ts-react-18-template](https://github.com/KunHwanAhn/vite-ts-react-18-template)
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/vite-ts-react-18-template](https://github.com/KunHwanAhn/vite-ts-react-18-template)
+2. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/vite-ts-react-18-template/pull/3) in [KunHwanAhn/vite-ts-react-18-template](https://github.com/KunHwanAhn/vite-ts-react-18-template)
+3. 💪 Opened PR [#3](https://github.com/KunHwanAhn/vite-ts-react-18-template/pull/3) in [KunHwanAhn/vite-ts-react-18-template](https://github.com/KunHwanAhn/vite-ts-react-18-template)
+4. ⬆️ Pushed 5 commit(s) to [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news)
 5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/vite-ts-react-18-template](https://github.com/KunHwanAhn/vite-ts-react-18-template)
 <!--RECENT_ACTIVITY:end-->
 
