@@ -85,10 +85,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+2. 🎉 Merged PR [#19](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/19) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
 3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/vite-ts-react-18-template](https://github.com/KunHwanAhn/vite-ts-react-18-template)
-5. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/vite-ts-react-18-template/pull/3) in [KunHwanAhn/vite-ts-react-18-template](https://github.com/KunHwanAhn/vite-ts-react-18-template)
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
