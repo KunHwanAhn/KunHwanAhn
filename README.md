@@ -85,10 +85,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/js-ts-playground](https://github.com/KunHwanAhn/js-ts-playground)
-2. ⬆️ Pushed 3 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/falling-snow-animation](https://github.com/KunHwanAhn/falling-snow-animation)
+2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/js-ts-playground](https://github.com/KunHwanAhn/js-ts-playground)
+3. ⬆️ Pushed 3 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
 4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/falling-snow-animation](https://github.com/KunHwanAhn/falling-snow-animation)
-5. 📔 Created new repository [KunHwanAhn/falling-snow-animation](https://github.com/KunHwanAhn/falling-snow-animation)
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/falling-snow-animation](https://github.com/KunHwanAhn/falling-snow-animation)
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
