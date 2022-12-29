@@ -84,10 +84,10 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/falling-snow-animation](https://github.com/KunHwanAhn/falling-snow-animation)
+1. ⬆️ Pushed 3 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
 2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/falling-snow-animation](https://github.com/KunHwanAhn/falling-snow-animation)
-3. 📔 Created new repository [KunHwanAhn/falling-snow-animation](https://github.com/KunHwanAhn/falling-snow-animation)
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/falling-snow-animation](https://github.com/KunHwanAhn/falling-snow-animation)
+4. 📔 Created new repository [KunHwanAhn/falling-snow-animation](https://github.com/KunHwanAhn/falling-snow-animation)
 5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)
 <!--RECENT_ACTIVITY:end-->
 
