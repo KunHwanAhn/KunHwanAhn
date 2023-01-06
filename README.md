@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-2. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/2) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-3. 💪 Opened PR [#2](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/2) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-4. 🎉 Merged PR [#58](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/58) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
+1. ⭐ Starred [emotion-js/emotion](https://github.com/emotion-js/emotion)<br>
+2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
+3. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/2) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
+4. 💪 Opened PR [#2](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/2) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
+5. 🎉 Merged PR [#58](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/58) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
