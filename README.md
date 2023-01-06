@@ -85,10 +85,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-2. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/3) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-3. 💪 Opened PR [#3](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/3) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-5. ⭐ Starred [emotion-js/emotion](https://github.com/emotion-js/emotion)<br>
+2. 💪 Opened PR [#4](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/4) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
+4. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/3) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
+5. 💪 Opened PR [#3](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/3) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
