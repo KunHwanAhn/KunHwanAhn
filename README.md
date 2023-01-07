@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-2. 💪 Opened PR [#4](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/4) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-4. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/3) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-5. 💪 Opened PR [#3](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/3) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
+1. ⬆️ Pushed 45 commit(s) to [KunHwanAhn/type-challenges](https://github.com/KunHwanAhn/type-challenges)<br>
+2. ⬆️ Pushed 22 commit(s) to [KunHwanAhn/sleact](https://github.com/KunHwanAhn/sleact)<br>
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news)<br>
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
+5. 💪 Opened PR [#4](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/4) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
