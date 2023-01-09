@@ -85,10 +85,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/micro-frontend-sample](https://github.com/KunHwanAhn/micro-frontend-sample)<br>
-2. 📔 Created new repository [KunHwanAhn/micro-frontend-sample](https://github.com/KunHwanAhn/micro-frontend-sample)<br>
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-4. 🎉 Merged PR [#6](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/6) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
+2. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/micro-frontend-sample/pull/1) in [KunHwanAhn/micro-frontend-sample](https://github.com/KunHwanAhn/micro-frontend-sample)<br>
+3. 💪 Opened PR [#1](https://github.com/KunHwanAhn/micro-frontend-sample/pull/1) in [KunHwanAhn/micro-frontend-sample](https://github.com/KunHwanAhn/micro-frontend-sample)<br>
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/micro-frontend-sample](https://github.com/KunHwanAhn/micro-frontend-sample)<br>
+5. 📔 Created new repository [KunHwanAhn/micro-frontend-sample](https://github.com/KunHwanAhn/micro-frontend-sample)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
