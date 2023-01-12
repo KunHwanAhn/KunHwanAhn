@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-2. 🎉 Merged PR [#23](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/23) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-3. ⭐ Starred [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/micro-frontend-sample](https://github.com/KunHwanAhn/micro-frontend-sample)<br>
-5. 🎉 Merged PR [#4](https://github.com/KunHwanAhn/micro-frontend-sample/pull/4) in [KunHwanAhn/micro-frontend-sample](https://github.com/KunHwanAhn/micro-frontend-sample)<br>
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/js-ts-playground](https://github.com/KunHwanAhn/js-ts-playground)<br>
+2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+3. 🎉 Merged PR [#23](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/23) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+4. ⭐ Starred [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/micro-frontend-sample](https://github.com/KunHwanAhn/micro-frontend-sample)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
