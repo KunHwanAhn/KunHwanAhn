@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [KunHwanAhn/react-jest-test-sample](https://github.com/KunHwanAhn/react-jest-test-sample)<br>
-2. ⬆️ Pushed 9 commit(s) to [KunHwanAhn/github-readme-stats](https://github.com/KunHwanAhn/github-readme-stats)<br>
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/js-ts-playground](https://github.com/KunHwanAhn/js-ts-playground)<br>
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-5. 🎉 Merged PR [#23](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/23) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-jest-test-sample](https://github.com/KunHwanAhn/react-jest-test-sample)<br>
+2. 📔 Created new repository [KunHwanAhn/react-jest-test-sample](https://github.com/KunHwanAhn/react-jest-test-sample)<br>
+3. ⬆️ Pushed 9 commit(s) to [KunHwanAhn/github-readme-stats](https://github.com/KunHwanAhn/github-readme-stats)<br>
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/js-ts-playground](https://github.com/KunHwanAhn/js-ts-playground)<br>
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
