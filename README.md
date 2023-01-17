@@ -85,10 +85,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-jest-test-sample](https://github.com/KunHwanAhn/react-jest-test-sample)<br>
-2. 📔 Created new repository [KunHwanAhn/react-jest-test-sample](https://github.com/KunHwanAhn/react-jest-test-sample)<br>
-3. ⬆️ Pushed 9 commit(s) to [KunHwanAhn/github-readme-stats](https://github.com/KunHwanAhn/github-readme-stats)<br>
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/js-ts-playground](https://github.com/KunHwanAhn/js-ts-playground)<br>
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+2. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/react-jest-test-sample/pull/1) in [KunHwanAhn/react-jest-test-sample](https://github.com/KunHwanAhn/react-jest-test-sample)<br>
+3. 💪 Opened PR [#1](https://github.com/KunHwanAhn/react-jest-test-sample/pull/1) in [KunHwanAhn/react-jest-test-sample](https://github.com/KunHwanAhn/react-jest-test-sample)<br>
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/react-jest-test-sample](https://github.com/KunHwanAhn/react-jest-test-sample)<br>
+5. 📔 Created new repository [KunHwanAhn/react-jest-test-sample](https://github.com/KunHwanAhn/react-jest-test-sample)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
