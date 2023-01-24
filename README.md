@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#8](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/8) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
+1. 🎉 Merged PR [#8](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/8) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
 2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-3. 🎉 Merged PR [#7](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/7) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-4. 💪 Opened PR [#7](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/7) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/js-ts-playground](https://github.com/KunHwanAhn/js-ts-playground)<br>
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
+4. 💪 Opened PR [#8](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/8) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
