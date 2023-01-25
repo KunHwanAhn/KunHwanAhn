@@ -85,10 +85,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/dynamic-list](https://github.com/KunHwanAhn/dynamic-list)<br>
-2. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/dynamic-list/pull/1) in [KunHwanAhn/dynamic-list](https://github.com/KunHwanAhn/dynamic-list)<br>
+2. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/dynamic-list/pull/3) in [KunHwanAhn/dynamic-list](https://github.com/KunHwanAhn/dynamic-list)<br>
 3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/dynamic-list](https://github.com/KunHwanAhn/dynamic-list)<br>
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/dynamic-list](https://github.com/KunHwanAhn/dynamic-list)<br>
-5. 💪 Opened PR [#1](https://github.com/KunHwanAhn/dynamic-list/pull/1) in [KunHwanAhn/dynamic-list](https://github.com/KunHwanAhn/dynamic-list)<br>
+4. 💪 Opened PR [#3](https://github.com/KunHwanAhn/dynamic-list/pull/3) in [KunHwanAhn/dynamic-list](https://github.com/KunHwanAhn/dynamic-list)<br>
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/dynamic-list](https://github.com/KunHwanAhn/dynamic-list)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
