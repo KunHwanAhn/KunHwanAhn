@@ -86,9 +86,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-recoil-jest-sample](https://github.com/KunHwanAhn/next-recoil-jest-sample)<br>
 2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-recoil-jest-sample](https://github.com/KunHwanAhn/next-recoil-jest-sample)<br>
-3. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/next-recoil-jest-sample/pull/1) in [KunHwanAhn/next-recoil-jest-sample](https://github.com/KunHwanAhn/next-recoil-jest-sample)<br>
-4. 💪 Opened PR [#1](https://github.com/KunHwanAhn/next-recoil-jest-sample/pull/1) in [KunHwanAhn/next-recoil-jest-sample](https://github.com/KunHwanAhn/next-recoil-jest-sample)<br>
-5. 📔 Created new repository [KunHwanAhn/next-recoil-jest-sample](https://github.com/KunHwanAhn/next-recoil-jest-sample)<br>
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-recoil-jest-sample](https://github.com/KunHwanAhn/next-recoil-jest-sample)<br>
+4. 🎉 Merged PR [#1](https://github.com/KunHwanAhn/next-recoil-jest-sample/pull/1) in [KunHwanAhn/next-recoil-jest-sample](https://github.com/KunHwanAhn/next-recoil-jest-sample)<br>
+5. 💪 Opened PR [#1](https://github.com/KunHwanAhn/next-recoil-jest-sample/pull/1) in [KunHwanAhn/next-recoil-jest-sample](https://github.com/KunHwanAhn/next-recoil-jest-sample)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
