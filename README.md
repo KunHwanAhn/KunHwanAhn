@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)<br>
-2. 🎉 Merged PR [#28](https://github.com/KunHwanAhn/graphql-ex/pull/28) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)<br>
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-4. 🎉 Merged PR [#10](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/10) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
-5. 💪 Opened PR [#10](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/10) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
+1. 📔 Created new repository [KunHwanAhn/next-recoil-jest-sample](https://github.com/KunHwanAhn/next-recoil-jest-sample)<br>
+2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)<br>
+3. 🎉 Merged PR [#28](https://github.com/KunHwanAhn/graphql-ex/pull/28) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)<br>
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
+5. 🎉 Merged PR [#10](https://github.com/KunHwanAhn/scroll-interaction-sample/pull/10) in [KunHwanAhn/scroll-interaction-sample](https://github.com/KunHwanAhn/scroll-interaction-sample)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
