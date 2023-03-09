@@ -84,10 +84,10 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TanStack/query](https://github.com/TanStack/query)<br>
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-query-recoil-ex](https://github.com/KunHwanAhn/next-query-recoil-ex)<br>
-3. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/next-query-recoil-ex/pull/3) in [KunHwanAhn/next-query-recoil-ex](https://github.com/KunHwanAhn/next-query-recoil-ex)<br>
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-query-recoil-ex](https://github.com/KunHwanAhn/next-query-recoil-ex)<br>
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-query-recoil-ex](https://github.com/KunHwanAhn/next-query-recoil-ex)<br>
+2. 💪 Opened PR [#4](https://github.com/KunHwanAhn/next-query-recoil-ex/pull/4) in [KunHwanAhn/next-query-recoil-ex](https://github.com/KunHwanAhn/next-query-recoil-ex)<br>
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-query-recoil-ex](https://github.com/KunHwanAhn/next-query-recoil-ex)<br>
+4. ⭐ Starred [TanStack/query](https://github.com/TanStack/query)<br>
 5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-query-recoil-ex](https://github.com/KunHwanAhn/next-query-recoil-ex)<br>
 <!--RECENT_ACTIVITY:end-->
 
