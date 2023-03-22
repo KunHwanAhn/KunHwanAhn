@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
-2. 🎉 Merged PR [#59](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/59) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
+1. ⬆️ Pushed 38 commit(s) to [KunHwanAhn/type-challenges](https://github.com/KunHwanAhn/type-challenges)<br>
+2. 💪 Opened PR [#1](https://github.com/KunHwanAhn/type-challenges/pull/1) in [KunHwanAhn/type-challenges](https://github.com/KunHwanAhn/type-challenges)<br>
 3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
-4. 🎉 Merged PR [#53](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/53) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
-5. ⬆️ Pushed 47 commit(s) to [KunHwanAhn/github-readme-stats](https://github.com/KunHwanAhn/github-readme-stats)<br>
+4. 🎉 Merged PR [#59](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/59) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
