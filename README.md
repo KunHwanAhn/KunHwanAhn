@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 38 commit(s) to [KunHwanAhn/type-challenges](https://github.com/KunHwanAhn/type-challenges)<br>
-2. 💪 Opened PR [#1](https://github.com/KunHwanAhn/type-challenges/pull/1) in [KunHwanAhn/type-challenges](https://github.com/KunHwanAhn/type-challenges)<br>
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
-4. 🎉 Merged PR [#59](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/59) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
+1. ✌️ Released [23.01.0](https://github.com/KunHwanAhn/ParticipatedSeminars/releases/tag/23.01.0) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+2. ⬆️ Pushed 2 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+3. 🎉 Merged PR [#26](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/26) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+4. ⬆️ Pushed 11 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+5. 🎉 Merged PR [#25](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/25) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
