@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [florianldt/tkcreativekit](https://github.com/florianldt/tkcreativekit)<br>
-2. ✌️ Released [23.01.0](https://github.com/KunHwanAhn/ParticipatedSeminars/releases/tag/23.01.0) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-3. ⬆️ Pushed 2 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-4. 🎉 Merged PR [#26](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/26) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-5. ⬆️ Pushed 11 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+1. ⬆️ Pushed 12 commit(s) to [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news)<br>
+2. ⭐ Starred [florianldt/tkcreativekit](https://github.com/florianldt/tkcreativekit)<br>
+3. ✌️ Released [23.01.0](https://github.com/KunHwanAhn/ParticipatedSeminars/releases/tag/23.01.0) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+4. ⬆️ Pushed 2 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+5. 🎉 Merged PR [#26](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/26) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
