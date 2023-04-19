@@ -85,10 +85,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
-2. 💪 Opened PR [#4](https://github.com/KunHwanAhn/next-image-opt-example/pull/4) in [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
-3. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/next-image-opt-example/pull/3) in [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
-5. 💪 Opened PR [#3](https://github.com/KunHwanAhn/next-image-opt-example/pull/3) in [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
+2. 🎉 Merged PR [#4](https://github.com/KunHwanAhn/next-image-opt-example/pull/4) in [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
+4. 💪 Opened PR [#4](https://github.com/KunHwanAhn/next-image-opt-example/pull/4) in [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
+5. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/next-image-opt-example/pull/3) in [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
