@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#11](https://github.com/oy-kunhwon/git-rebase-test/pull/11) in [oy-kunhwon/git-rebase-test](https://github.com/oy-kunhwon/git-rebase-test)<br>
-2. ⬆️ Pushed 3 commit(s) to [oy-kunhwon/git-rebase-test](https://github.com/oy-kunhwon/git-rebase-test)<br>
-3. ⬆️ Pushed 1 commit(s) to [oy-kunhwon/git-rebase-test](https://github.com/oy-kunhwon/git-rebase-test)<br>
-4. 💪 Opened PR [#11](https://github.com/oy-kunhwon/git-rebase-test/pull/11) in [oy-kunhwon/git-rebase-test](https://github.com/oy-kunhwon/git-rebase-test)<br>
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
+1. ✌️ Released [23.04.0](https://github.com/KunHwanAhn/ParticipatedSeminars/releases/tag/23.04.0) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+2. 🎉 Merged PR [#30](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/30) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+3. ⬆️ Pushed 2 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+4. ⬆️ Pushed 5 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+5. 🎉 Merged PR [#29](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/29) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
