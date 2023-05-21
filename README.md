@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 12 commit(s) to [KunHwanAhn/type-challenges](https://github.com/KunHwanAhn/type-challenges)<br>
-2. ✌️ Released [23.04.0](https://github.com/KunHwanAhn/ParticipatedSeminars/releases/tag/23.04.0) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-3. 🎉 Merged PR [#30](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/30) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-4. ⬆️ Pushed 2 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-5. ⬆️ Pushed 5 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
+2. 🎉 Merged PR [#5](https://github.com/KunHwanAhn/next-image-opt-example/pull/5) in [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
+3. 💪 Opened PR [#5](https://github.com/KunHwanAhn/next-image-opt-example/pull/5) in [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
+4. ⬆️ Pushed 12 commit(s) to [KunHwanAhn/type-challenges](https://github.com/KunHwanAhn/type-challenges)<br>
+5. ✌️ Released [23.04.0](https://github.com/KunHwanAhn/ParticipatedSeminars/releases/tag/23.04.0) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
