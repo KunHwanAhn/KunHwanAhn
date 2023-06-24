@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#205](https://github.com/Nextjs-kr/Nextjs.kr/pull/205#discussion_r1240578466) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
-2. 💬 Commented on [#205](https://github.com/Nextjs-kr/Nextjs.kr/pull/205#discussion_r1240578285) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
-3. 💬 Commented on [#230](https://github.com/Nextjs-kr/Nextjs.kr/pull/230#discussion_r1240577892) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
-4. 💬 Commented on [#231](https://github.com/Nextjs-kr/Nextjs.kr/pull/231#discussion_r1240577576) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
-5. 💬 Commented on [#231](https://github.com/Nextjs-kr/Nextjs.kr/pull/231#discussion_r1240577318) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
+1. 💬 Commented on [#236](https://github.com/Nextjs-kr/Nextjs.kr/pull/236#issuecomment-1605258556) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
+2. 💬 Commented on [#236](https://github.com/Nextjs-kr/Nextjs.kr/pull/236#discussion_r1240592145) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
+3. 💬 Commented on [#236](https://github.com/Nextjs-kr/Nextjs.kr/pull/236#discussion_r1240592182) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
+4. 💬 Commented on [#236](https://github.com/Nextjs-kr/Nextjs.kr/pull/236#discussion_r1240592048) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
+5. 💪 Opened PR [#236](https://github.com/Nextjs-kr/Nextjs.kr/pull/236) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
