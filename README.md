@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 87 commit(s) to [KunHwanAhn/Nextjs.kr](https://github.com/KunHwanAhn/Nextjs.kr)<br>
-2. ⬆️ Pushed 87 commit(s) to [KunHwanAhn/Nextjs.kr](https://github.com/KunHwanAhn/Nextjs.kr)<br>
-3. 💬 Commented on [#230](https://github.com/Nextjs-kr/Nextjs.kr/pull/230#issuecomment-1605920210) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
-4. 💬 Commented on [#231](https://github.com/Nextjs-kr/Nextjs.kr/pull/231#discussion_r1241081296) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
-5. 💬 Commented on [#230](https://github.com/Nextjs-kr/Nextjs.kr/pull/230#discussion_r1241081123) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
+1. 💬 Commented on [#236](https://github.com/Nextjs-kr/Nextjs.kr/pull/236#issuecomment-1609645774) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
+2. 💬 Commented on [#1](https://github.com/Nextjs-kr/Nextjs.kr/issues/1#issuecomment-1609643289) in [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/Nextjs.kr](https://github.com/KunHwanAhn/Nextjs.kr)<br>
+4. ⬆️ Pushed 90 commit(s) to [KunHwanAhn/Nextjs.kr](https://github.com/KunHwanAhn/Nextjs.kr)<br>
+5. ⬆️ Pushed 2 commit(s) to [KunHwanAhn/Nextjs.kr](https://github.com/KunHwanAhn/Nextjs.kr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
