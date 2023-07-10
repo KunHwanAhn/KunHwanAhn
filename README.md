@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 67 commit(s) to [KunHwanAhn/Nextjs.kr](https://github.com/KunHwanAhn/Nextjs.kr)<br>
-2. ⬆️ Pushed 67 commit(s) to [KunHwanAhn/Nextjs.kr](https://github.com/KunHwanAhn/Nextjs.kr)<br>
-3. ⬆️ Pushed 4 commit(s) to [KunHwanAhn/Nextjs.kr](https://github.com/KunHwanAhn/Nextjs.kr)<br>
-4. ⬆️ Pushed 4 commit(s) to [KunHwanAhn/Nextjs.kr](https://github.com/KunHwanAhn/Nextjs.kr)<br>
-5. ⭐ Starred [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr)<br>
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
+2. 🎉 Merged PR [#60](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/60) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
+3. ⬆️ Pushed 67 commit(s) to [KunHwanAhn/Nextjs.kr](https://github.com/KunHwanAhn/Nextjs.kr)<br>
+4. ⬆️ Pushed 67 commit(s) to [KunHwanAhn/Nextjs.kr](https://github.com/KunHwanAhn/Nextjs.kr)<br>
+5. ⬆️ Pushed 4 commit(s) to [KunHwanAhn/Nextjs.kr](https://github.com/KunHwanAhn/Nextjs.kr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
