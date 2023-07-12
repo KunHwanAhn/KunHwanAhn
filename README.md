@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jwise/HoRNDIS](https://github.com/jwise/HoRNDIS)<br>
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)<br>
-3. 🎉 Merged PR [#29](https://github.com/KunHwanAhn/graphql-ex/pull/29) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)<br>
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)<br>
-5. 🎉 Merged PR [#42](https://github.com/KunHwanAhn/graphql-client-ex/pull/42) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)<br>
+1. 💪 Opened PR [#32](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/32) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+2. ⭐ Starred [jwise/HoRNDIS](https://github.com/jwise/HoRNDIS)<br>
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)<br>
+4. 🎉 Merged PR [#29](https://github.com/KunHwanAhn/graphql-ex/pull/29) in [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)<br>
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
