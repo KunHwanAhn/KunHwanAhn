@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#32](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/32) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-4. 💪 Opened PR [#32](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/32) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-5. ⭐ Starred [jwise/HoRNDIS](https://github.com/jwise/HoRNDIS)<br>
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)<br>
+2. 🎉 Merged PR [#43](https://github.com/KunHwanAhn/graphql-client-ex/pull/43) in [KunHwanAhn/graphql-client-ex](https://github.com/KunHwanAhn/graphql-client-ex)<br>
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
+4. 🎉 Merged PR [#61](https://github.com/KunHwanAhn/webpack-babel-vue-template/pull/61) in [KunHwanAhn/webpack-babel-vue-template](https://github.com/KunHwanAhn/webpack-babel-vue-template)<br>
+5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/graphql-ex](https://github.com/KunHwanAhn/graphql-ex)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
