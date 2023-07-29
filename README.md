@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 109 commit(s) to [KunHwanAhn/TypeScript-Website-Localizations](https://github.com/KunHwanAhn/TypeScript-Website-Localizations)<br>
+1. 📔 Created new repository [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
 2. ⬆️ Pushed 109 commit(s) to [KunHwanAhn/TypeScript-Website-Localizations](https://github.com/KunHwanAhn/TypeScript-Website-Localizations)<br>
-3. ⬆️ Pushed 3 commit(s) to [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news)<br>
+3. ⬆️ Pushed 109 commit(s) to [KunHwanAhn/TypeScript-Website-Localizations](https://github.com/KunHwanAhn/TypeScript-Website-Localizations)<br>
 4. ⬆️ Pushed 3 commit(s) to [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news)<br>
-5. ⬆️ Pushed 42 commit(s) to [KunHwanAhn/type-challenges](https://github.com/KunHwanAhn/type-challenges)<br>
+5. ⬆️ Pushed 3 commit(s) to [KunHwanAhn/fe-news](https://github.com/KunHwanAhn/fe-news)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
