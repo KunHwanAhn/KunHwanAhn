@@ -85,9 +85,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
-2. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/next-cdn-ecs-ex/pull/2) in [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+2. 💪 Opened PR [#3](https://github.com/KunHwanAhn/next-cdn-ecs-ex/pull/3) in [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
 3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+4. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/next-cdn-ecs-ex/pull/2) in [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
 5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
 <!--RECENT_ACTIVITY:end-->
 
