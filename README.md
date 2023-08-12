@@ -84,10 +84,10 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+1. ⬆️ Pushed 3 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+2. ⬆️ Pushed 3 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
 3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-4. 🔱 Forked [KunHwanAhn/awskrug-nextjs-rsc-sample](https://github.com/KunHwanAhn/awskrug-nextjs-rsc-sample) from [haesoo-y/study-nextjs](https://github.com/haesoo-y/study-nextjs)<br>
+4. 🎉 Merged PR [#35](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/35) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
 5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
 <!--RECENT_ACTIVITY:end-->
 
