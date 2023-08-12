@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-2. ⬆️ Pushed 3 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-4. 🎉 Merged PR [#35](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/35) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+2. 🎉 Merged PR [#3](https://github.com/KunHwanAhn/next-cdn-ecs-ex/pull/3) in [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+5. ⬆️ Pushed 2 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
