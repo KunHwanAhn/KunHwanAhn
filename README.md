@@ -84,10 +84,10 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Skolaczk/next-starter](https://github.com/Skolaczk/next-starter)<br>
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
-4. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+1. 💪 Opened PR [#15](https://github.com/KunHwanAhn/next-cdn-ecs-ex/pull/15) in [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+2. ❌ Closed PR [#14](https://github.com/KunHwanAhn/next-cdn-ecs-ex/pull/14) in [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+3. ⬆️ Pushed 14 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+4. ⭐ Starred [Skolaczk/next-starter](https://github.com/Skolaczk/next-starter)<br>
 5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
 <!--RECENT_ACTIVITY:end-->
 
