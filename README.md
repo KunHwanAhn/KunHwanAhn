@@ -84,10 +84,10 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
-2. 💪 Opened PR [#20](https://github.com/KunHwanAhn/next-cdn-ecs-ex/pull/20) in [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
-3. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
-4. ❌ Closed PR [#19](https://github.com/KunHwanAhn/next-cdn-ecs-ex/pull/19) in [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+2. 💪 Opened PR [#21](https://github.com/KunHwanAhn/next-cdn-ecs-ex/pull/21) in [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+3. ❌ Closed PR [#20](https://github.com/KunHwanAhn/next-cdn-ecs-ex/pull/20) in [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+4. ⬆️ Pushed 19 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
 5. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
 <!--RECENT_ACTIVITY:end-->
 
