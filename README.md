@@ -84,11 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mdn/yari](https://github.com/mdn/yari)<br>
-2. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
-3. ⬆️ Pushed 0 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
-4. ⬆️ Pushed 0 commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
-5. ❌ Closed PR [#27](https://github.com/KunHwanAhn/next-cdn-ecs-ex/pull/27) in [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+1. ✌️ Released [24.06.0](https://github.com/KunHwanAhn/ParticipatedSeminars/releases/tag/24.06.0) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+2. ⬆️ Pushed 2 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+3. 🎉 Merged PR [#43](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/43) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+4. 🎉 Merged PR [#42](https://github.com/KunHwanAhn/ParticipatedSeminars/pull/42) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+5. ⬆️ Pushed 11 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
