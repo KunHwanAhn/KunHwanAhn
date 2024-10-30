@@ -84,6 +84,7 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
