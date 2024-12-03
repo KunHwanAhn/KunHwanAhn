@@ -84,7 +84,6 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/js-ts-playground](https://github.com/KunHwanAhn/js-ts-playground)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
