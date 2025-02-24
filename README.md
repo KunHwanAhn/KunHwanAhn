@@ -84,7 +84,8 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [KunHwanAhn/next-life-cycle-debug](https://github.com/KunHwanAhn/next-life-cycle-debug)<br>
+1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-life-cycle-debug](https://github.com/KunHwanAhn/next-life-cycle-debug)<br>
+2. 📔 Created new repository [KunHwanAhn/next-life-cycle-debug](https://github.com/KunHwanAhn/next-life-cycle-debug)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
