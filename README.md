@@ -87,7 +87,6 @@
 1. ⬆️ Pushed 1 commit(s) to [KunHwanAhn/next-life-cycle-debug](https://github.com/KunHwanAhn/next-life-cycle-debug)<br>
 2. 🎉 Merged PR [#2](https://github.com/KunHwanAhn/next-life-cycle-debug/pull/2) in [KunHwanAhn/next-life-cycle-debug](https://github.com/KunHwanAhn/next-life-cycle-debug)<br>
 3. ⬆️ Pushed 2 commit(s) to [KunHwanAhn/next-life-cycle-debug](https://github.com/KunHwanAhn/next-life-cycle-debug)<br>
-4. 💪 Opened PR [#2](https://github.com/KunHwanAhn/next-life-cycle-debug/pull/2) in [KunHwanAhn/next-life-cycle-debug](https://github.com/KunHwanAhn/next-life-cycle-debug)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
