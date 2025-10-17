@@ -84,11 +84,6 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [KunHwanAhn/next-life-cycle-debug](https://github.com/KunHwanAhn/next-life-cycle-debug)<br>
-2. 💪 Opened PR [#4](undefined) in [KunHwanAhn/next-life-cycle-debug](https://github.com/KunHwanAhn/next-life-cycle-debug)<br>
-3. ⬆️ Pushed undefined commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-4. ⬆️ Pushed undefined commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-5. 💪 Opened PR [#51](undefined) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
