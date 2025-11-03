@@ -84,10 +84,11 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-2. 💪 Opened PR [#53](undefined) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-3. ⬆️ Pushed undefined commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
-4. 💪 Opened PR [#52](undefined) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+1. ⬆️ Pushed undefined commit(s) to [KunHwanAhn/next-life-cycle-debug](https://github.com/KunHwanAhn/next-life-cycle-debug)<br>
+2. ⬆️ Pushed undefined commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
+3. ⬆️ Pushed undefined commit(s) to [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
+4. ⬆️ Pushed undefined commit(s) to [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
+5. 💪 Opened PR [#53](undefined) in [KunHwanAhn/ParticipatedSeminars](https://github.com/KunHwanAhn/ParticipatedSeminars)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
