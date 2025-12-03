@@ -85,9 +85,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [KunHwanAhn/asdf](https://github.com/KunHwanAhn/asdf) from [asdf-vm/asdf](https://github.com/asdf-vm/asdf)<br>
-2. ⬆️ Pushed undefined commit(s) to [KunHwanAhn/next-life-cycle-debug](https://github.com/KunHwanAhn/next-life-cycle-debug)<br>
-3. ⬆️ Pushed undefined commit(s) to [KunHwanAhn/next-cdn-ecs-ex](https://github.com/KunHwanAhn/next-cdn-ecs-ex)<br>
-4. ⬆️ Pushed undefined commit(s) to [KunHwanAhn/next-image-opt-example](https://github.com/KunHwanAhn/next-image-opt-example)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
