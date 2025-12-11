@@ -84,7 +84,6 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [KunHwanAhn/asdf](https://github.com/KunHwanAhn/asdf) from [asdf-vm/asdf](https://github.com/asdf-vm/asdf)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### Stats
